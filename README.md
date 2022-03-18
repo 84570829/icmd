@@ -1,3 +1,3 @@
-Exec执行常规非阻塞命令
-<br>
-Pipe执行阻塞命令，通过管道返回数据
+```go
+go get -u github.com/84570829/icmd
+```
